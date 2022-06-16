@@ -48,5 +48,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [oladejo eniola](https://www.your-site.com)
-- Frontend Mentor - [niol08](https://www.frontendmentor.io/profile/yourusername)
+- Website - [oladejo eniola]
+- Frontend Mentor - [niol08](https://www.frontendmentor.io/profile/niol08)
