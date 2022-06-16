@@ -27,7 +27,7 @@ img.illustration-hero {
 }
 
 body {
-  background-image: url(./images/pattern-background-desktop.svg);
+  background-image: url(/images/pattern-background-desktop.svg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: contain;
